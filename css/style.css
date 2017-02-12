@@ -1,0 +1,29 @@
+body{
+	font-family:"Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+	margin:100px;
+	background:url("https://i.imgsafe.org/4faec0d535.jpg");
+}
+
+h1 {
+	color:White;
+	font-size: 50px;
+	padding:50px;
+	margin:50;
+  text-align:center;
+}
+h2{
+  text-align:center;
+  color:white;
+}
+
+h3{
+	font-style: oblique;
+  text-align:center;
+  color:white;
+	
+}
+p{
+  text-align:left;
+  color:white;
+}
+}
